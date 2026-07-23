@@ -2,9 +2,18 @@
   "name": "contaazul-cli",
   "version": "0.1.0",
   "description": "CLI profissional para a API pública Conta Azul Pro (ERP)",
+  "author": "whoisdon",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whoisdon/ContaAzul.git"
+  },
+  "homepage": "https://github.com/whoisdon/ContaAzul#readme",
+  "bugs": {
+    "url": "https://github.com/whoisdon/ContaAzul/issues"
+  },
   "type": "module",
   "bin": {
-    "contaazul": "./dist/bin/contaazul.js"
+    "contaazul": "dist/bin/contaazul.js"
   },
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
