@@ -1,7 +1,7 @@
 # CONTAZUL-CLI
 
 <div align="center">
-  <img src="./assets/banner.png" alt="contaazul-cli — CLI para API Conta Azul Pro v2" width="100%" />
+  <img src="./docs/banner.png" alt="contaazul-cli — CLI para API Conta Azul Pro v2" width="100%" />
 </div>
 
 CLI profissional para a **API pública Conta Azul Pro (ERP v2)**. Autenticação OAuth 2.0, multi-conta, detecção de ambiente dev/prod e CRUD completo sobre os recursos da API.
