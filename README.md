@@ -466,7 +466,7 @@ conta-azul-api/
 │   │   ├── accounts.ts        # nomes e labels
 │   │   └── context.ts         # conta corrente por comando
 │   ├── ui/
-│   │   ├── help.ts            # help root estilo git
+│   │   ├── help.ts            # help root
 │   │   └── output.ts          # tabelas, spinners, stderr/stdout
 │   ├── utils/
 │   │   └── errors.ts
@@ -517,7 +517,7 @@ contaazul ping
 ## Ajuda integrada
 
 ```bash
-contaazul                          # help root (estilo git/bun)
+contaazul                          # help root
 contaazul --help
 contaazul pessoas --help
 contaazul pessoas list --help
